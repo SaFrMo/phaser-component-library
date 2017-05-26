@@ -11,6 +11,7 @@ Links to general-use components for Phaser projects. Know any lightweight, stand
 	* Also on NPM: `npm install phaser-link`
 * [phaser-percent-bar](https://github.com/SaFrMo/phaser-percent-bar)
 	* Auto-updating percentage bar
+	* Also on NPM: `npm install phaser-percent-bar`
 
 ## General
 
