@@ -1,5 +1,5 @@
 # Phaser Component Library
-Links to general-use components for Phaser projects
+Links to general-use components for Phaser projects. Know any lightweight, standalone components with thorough documentation? Submit a pull request!
 
 ## Phaser-specific
 
